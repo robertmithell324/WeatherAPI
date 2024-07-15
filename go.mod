@@ -1,3 +1,3 @@
-module weather-api
+module weather-app
 
 go 1.21.3
